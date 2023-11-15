@@ -1,3 +1,2 @@
-﻿  Problem Solving.cpp
-F:\Coureses\C++\Problem Solving\Problem Solving\Problem Solving.cpp(9,8): warning C4215: nonstandard extension used: long float
-  Problem Solving.vcxproj -> F:\Coureses\C++\Problem Solving\x64\Debug\Problem Solving.exe
+﻿  K.Max and Min.cpp
+LINK : fatal error LNK1168: cannot open F:\Coureses\C++\Problem Solving\x64\Debug\Problem Solving.exe for writing

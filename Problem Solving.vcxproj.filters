@@ -24,5 +24,8 @@
     <ClCompile Include="JMultiples.cpp">
       <Filter>Problem Solving</Filter>
     </ClCompile>
+    <ClCompile Include="K.Max and Min.cpp">
+      <Filter>Problem Solving</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

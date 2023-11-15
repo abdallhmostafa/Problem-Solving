@@ -1,26 +1,56 @@
-
+/*
 #include <iostream>
 
 using namespace std;
 int main()
 {
-	// ICPC Assiut University Community //
-// --------------------	J.Multiples -------------------- //
 
-	 long double x ,y ;
+
+	 long int x ,y,z ;
 	 
 	
-	 cin >> x >> y ;
+	 cin >> x >> y>>z ;
 	 
 
 ;
-if ((x / y) == (int)(x / y) || (y / x) == (int)(y / x)) {
-		cout << "Multiples" << "\n";
+if ( x<y and x< z) {
+		cout << x<< " ";
+		if (y > z) {
+			cout << y << "\n";
+		}
+		else
+		{
+			cout << z << "\n";
+
+		}
+
+	}
+
+else if (y < x and y < z) {
+	cout << x << " ";
+	if (x > z) {
+		cout << x << "\n";
 	}
 	else
 	{
-		cout << "No Multiples" << "\n";
+		cout << z << "\n";
 
 	}
 
 }
+else if (z < y and z < x) {
+	cout << z << " ";
+	if (y > x) {
+		cout << y << "\n";
+	}
+	else
+	{
+		cout << x << "\n";
+
+	}
+
+}
+
+}
+
+*/

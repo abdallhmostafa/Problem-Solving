@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Problem Solving.cpp" />
     <ClCompile Include="JMultiples.cpp" />
+    <ClCompile Include="K.Max and Min.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
