@@ -10,7 +10,9 @@
 using namespace std;
 
 int main()
+
 {
+
     char x;
     cout << "Enter value: ";
     cin >> x;
